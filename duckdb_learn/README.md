@@ -8,7 +8,7 @@ DuckDB is an open-source analytical database system to store and query large amo
 4. Lightweight
 
 ## Installation
-`Python` enviroment
+`Python` enviroment \\
 https://duckdb.org/docs/installation/index
 
-```pip install duckdb==0.8.1
+pip install duckdb
